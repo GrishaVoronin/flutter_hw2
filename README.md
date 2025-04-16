@@ -54,4 +54,4 @@ KotoTinder - это мобильное приложение в стиле Tinder
 
 ## Путь до apk файла
 
-
+[APK файл](https://github.com/GrishaVoronin/flutter_hw2/releases/tag/v1)
